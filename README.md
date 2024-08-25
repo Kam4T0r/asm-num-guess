@@ -1,1 +1,1 @@
-# asm-num-guess
+this is a simple guess number game
